@@ -1,4 +1,3 @@
-// Массив новостей
 const news = [
     {
         title: "Текстовая новость 1",
@@ -7,12 +6,11 @@ const news = [
     },
     {
         title: "БиоМёд!",
-        content: "Новости рудрейна глава хантеров и надзирателей снова переоткрывают биомёд с новой продукцией шоколад, мёд и многое другое!",
-        videoUrl: "https://www.youtube.com/watch?v=Hwybp38GnZw"
+        content: "Новости рудрейна главы хантеров и надзирателей вновь вернулись с биомёдом они обещают множество многих сладостей добавить в ассортимент!",
+        videoUrl: "https://www.youtube.com/embed/Hwybp38GnZw"
     }
 ];
 
-// Функция для создания новости
 function createNews(newsItem) {
     const newsContainer = document.getElementById('news-container');
 
