@@ -8,7 +8,7 @@ const news = [
     {
         title: "БиоМёд!",
         content: "Новости рудрейна глава хантеров и надзирателей снова переоткрывают биомёд с новой продукцией шоколад, мёд и многое другое!",
-        videoUrl: "https://youtu.be/Hwybp38GnZw?si=P1snOWeTOtitioM4"
+        videoUrl: "https://www.youtube.com/watch?v=Hwybp38GnZw"
     }
 ];
 
