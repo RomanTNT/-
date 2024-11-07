@@ -6,9 +6,9 @@ const news = [
         videoUrl: ""
     },
     {
-        title: "Видео новость 1",
-        content: "Это пример новости с видео. Видео встроено прямо на страницу.",
-        videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        title: "БиоМёд!",
+        content: "Новости рудрейна глава хантеров и надзирателей снова переоткрывают биомёд с новой продукцией шоколад, мёд и многое другое!",
+        videoUrl: "https://youtu.be/Hwybp38GnZw?si=P1snOWeTOtitioM4"
     }
 ];
 
