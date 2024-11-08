@@ -12,6 +12,21 @@ header {
     text-align: center;
 }
 
+.advertisement {
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.advertisement img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
 #news-container {
     margin: 20px;
 }
